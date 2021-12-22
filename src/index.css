@@ -1,0 +1,11 @@
+body {
+    padding: 6px;
+    background-color: darkblue;
+    font-family: Cambria;
+}
+
+#container {
+    display: flex;
+    justify-content: flex;
+    padding: 150px;
+}

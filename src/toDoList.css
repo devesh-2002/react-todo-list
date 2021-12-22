@@ -1,0 +1,38 @@
+.header input {
+    padding: 15px;
+    border: 2px solid #FFFFFF;
+    width: 165px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: lightskyblue;
+}
+
+button:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+.theList li {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    list-style: none;
+    /* list-style : none would remove the bullet points */
+    transition: background-color 2s ease-out;
+}
+
+.theList li:hover {
+    background-color: darkviolet;
+    cursor: pointer;
+}
+
+ul.theList {
+    padding: none
+}
