@@ -12,5 +12,5 @@ This is a simple to-do list. User can enter What tasks he/she has to do, and can
 2. Clone the forked repo.
 3. Open the project in VS Code or any terminal.
 4. Type ``` npm start ``` in the terminal.
-
+5. Open the project on ```localhost:3000```.
 
